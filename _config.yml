@@ -1,9 +1,4 @@
 title: Isaac
 logo: /images/S__1671173.jpg
 theme: jekyll-theme-minimal
-
-{% if page.title == "Home" %}
-    <img src="/images/stu.png" alt="Logo">
-{% else %}
-    <img src="/images/S__1671173.jpg" alt="Default Logo">
-{% endif %}
+image: /images/stu.jpg
