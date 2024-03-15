@@ -10974,6 +10974,15 @@ section.resume-section .resume-section-content {
 }
 
 .large-text {
-  font-size: 40px; 
+  font-size: 60px; 
   padding-bottom: 2rem;
 }
+
+
+.float-photo {
+    float: center;
+    width: 100px; 
+    height: auto; 
+    margin-right: 10px; 
+}
+
