@@ -10968,14 +10968,13 @@ section.resume-section .resume-section-content {
 
 
 .float-photo {
-  float: left;
   height: auto; 
   margin-right: 10px; 
 }
 
 .photos-wrapper {
-  display: inline-block;
-  justify-content: left;
+  display: flex;
+  justify-content: flex-start; /* 图片向左对齐 */
   flex-wrap: wrap; 
 }
 
@@ -10983,6 +10982,7 @@ figure {
   display: inline-block; 
   vertical-align: top;
 }
+
 
 h1, .h1,
 h2, .h2,
