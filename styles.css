@@ -10969,7 +10969,6 @@ section.resume-section .resume-section-content {
 
 .float-photo {
     float: center;
-    width: 100px; 
     height: auto; 
     margin-right: 10px; 
     display: inline-block; /* 将图片变为内联块元素 */
