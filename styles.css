@@ -10974,5 +10974,6 @@ section.resume-section .resume-section-content {
 }
 
 .large-text {
-  font-size: 24px; 
+  font-size: 40px; 
+  padding-bottom: 2rem;
 }
