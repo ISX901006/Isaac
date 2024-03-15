@@ -10957,12 +10957,12 @@ section.resume-section .resume-section-content {
   width: 100%;
 }
 
-@media (min-width: 768px) {
+@media  {
   section.resume-section {
     align-items: flex-start; 
   }
 }
-@media (min-width: 992px) {
+@media  {
   section.resume-section {
     padding-left: 3rem;
     padding-right: 3rem;
