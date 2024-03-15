@@ -10968,14 +10968,16 @@ section.resume-section .resume-section-content {
 
 
 .float-photo {
+  float: left;
   height: auto; 
   margin-right: 10px; 
 }
 
 .photos-wrapper {
   display: flex;
-  justify-content: left;
+  justify-content: center;
   flex-wrap: wrap; 
+  overflow: hidden;
 }
 
 figure {
