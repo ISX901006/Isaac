@@ -7497,7 +7497,6 @@ textarea.form-control-lg {
 
 .m-0 {
   margin: 0 !important;
-  text-transform: uppercase;
 }
 
 .m-1 {
@@ -10974,7 +10973,8 @@ section.resume-section .resume-section-content {
     margin-right: 10px; 
 }
 
-h1, .h1
+h1, .h1,
+h2, .h2
  {
   text-transform: uppercase;
 }
