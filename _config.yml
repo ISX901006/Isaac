@@ -1,11 +1,4 @@
 # Site settings
 title: My Jekyll Website
-description: A simple example of a Jekyll website
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: "https://example.com" # the base hostname & protocol for your site
-
-# Build settings
-markdown: kramdown
-
-# Theme settings
+description: A simple example of a Jekyll websit
 theme: jekyll
