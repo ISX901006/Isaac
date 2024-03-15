@@ -10974,10 +10974,9 @@ section.resume-section .resume-section-content {
 }
 
 .photos-wrapper {
-  display: flex;
+  display: inline-block;
   justify-content: left;
   flex-wrap: wrap; 
-  overflow: hidden;
 }
 
 figure {
