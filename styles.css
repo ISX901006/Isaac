@@ -7497,6 +7497,7 @@ textarea.form-control-lg {
 
 .m-0 {
   margin: 0 !important;
+  text-transform: uppercase;
 }
 
 .m-1 {
