@@ -10974,13 +10974,13 @@ section.resume-section .resume-section-content {
 
 .photos-wrapper {
   display: flex;
-  justify-content: center;
+  justify-content: left;
   flex-wrap: wrap; 
 }
 
 figure {
-  display: inline-block; /* 让 figure 元素成为内联块级元素，以便水平排列 */
-  vertical-align: top; /* 将 figure 元素顶部对齐 */
+  display: inline-block; 
+  vertical-align: top;
 }
 
 h1, .h1,
