@@ -1,2 +1,0 @@
-# ShangCheng_Shih
-## Hello
