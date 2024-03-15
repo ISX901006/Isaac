@@ -10975,7 +10975,7 @@ section.resume-section .resume-section-content {
 
 .photos-wrapper {
   display: flex;
-  justify-content: center;
+  justify-content: left;
   flex-wrap: wrap; 
   overflow: hidden;
 }
