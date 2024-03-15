@@ -10971,14 +10971,14 @@ section.resume-section .resume-section-content {
     float: center;
     height: auto; 
     margin-right: 10px; 
-    display: inline-block; /* 将图片变为内联块元素 */
-    vertical-align: top; /* 将图片与其上方的标题对齐 */
+    display: inline-block; 
+    vertical-align: top; 
   
 }
 .photos-wrapper {
   display: flex;
-  justify-content: center; /* 将图片水平居中显示 */
-  flex-wrap: wrap; /* 如果图片超出容器宽度，则换行显示 */
+  justify-content: center;
+  flex-wrap: wrap; 
 }
 
 h1, .h1,
