@@ -10975,6 +10975,11 @@ section.resume-section .resume-section-content {
     vertical-align: top; /* 将图片与其上方的标题对齐 */
   
 }
+.photos-wrapper {
+  display: flex;
+  justify-content: center; /* 将图片水平居中显示 */
+  flex-wrap: wrap; /* 如果图片超出容器宽度，则换行显示 */
+}
 
 h1, .h1,
 h2, .h2,
