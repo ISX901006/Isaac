@@ -10957,18 +10957,19 @@ section.resume-section .resume-section-content {
   width: 100%;
 }
 
-@media  {
+
+
+@media (min-width: 768px) {
   section.resume-section {
-    align-items: flex-start; 
+    align-items: flex-start;;
   }
 }
-@media  {
+@media (min-width: 992px) {
   section.resume-section {
     padding-left: 3rem;
     padding-right: 3rem;
-    padding-top: 5rem;
-    padding-bottom: 5rem;
-    align-items: flex-start; 
+    padding-top: 2rem;
+    padding-bottom: 2rem;
   }
 }
 
