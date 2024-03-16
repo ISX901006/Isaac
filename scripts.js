@@ -30,5 +30,5 @@ window.addEventListener('DOMContentLoaded', event => {
             }
         });
     });
-
+    window.scrollTo(0, 0);
 });
